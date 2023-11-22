@@ -1185,19 +1185,19 @@ FW_VERSIONS = {
   },
   CAR.SKODA_KAMIQ_MK1: {
     (Ecu.engine, 0x7e0, None): [
-      b'\xf1\x8705C906032M \xf1\x891333',
+     b'\xf1\x8704C906025AK\xf1\x897053',
     ],
     (Ecu.transmission, 0x7e1, None): [
-      b'\xf1\x870CW300020  \xf1\x891906',
+     b'\xf1\x870CW300050E \xf1\x891903',
     ],
     (Ecu.srs, 0x715, None): [
-      b'\xf1\x872Q0959655AM\xf1\x890351\xf1\x82\0222221042111042121040404042E2711152H14',
+     b'\xf1\x872Q0959655AJ\xf1\x890250\xf1\x82\x1221210421110421--04040404262111152H14',
     ],
     (Ecu.eps, 0x712, None): [
       b'\xf1\x872Q1909144M \xf1\x896041',
     ],
     (Ecu.fwdRadar, 0x757, None): [
-      b'\xf1\x872Q0907572T \xf1\x890383',
+      b'\xf1\x872Q0907572R \xf1\x890372',
     ],
   },
   CAR.SKODA_KAROQ_MK1: {
